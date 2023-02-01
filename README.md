@@ -1,4 +1,3 @@
-# Palace Selhurst Park
 Dock is configured correctly and ready for a match
 ## Dock Configuration
 dock-pp: active
